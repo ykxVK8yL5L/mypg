@@ -7,11 +7,11 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=filebrowser
-PKG_VERSION:=2.15.0
+PKG_VERSION:=2.16.0
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_VERSION:=be8683f
+PKG_SOURCE_VERSION:=8ecc2da
 PKG_SOURCE_URL:=https://github.com/filebrowser/filebrowser
 PKG_MIRROR_HASH:=dbf4ff9db137d1f596ad687edec097ae1bbf75ef04447256044e960e044e2ee5
 
